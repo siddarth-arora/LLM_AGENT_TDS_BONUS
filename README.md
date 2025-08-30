@@ -3,7 +3,7 @@
 A **lightweight proof-of-concept** for running an **LLM-powered agent entirely in the browser**.  
 This app shows how natural language reasoning can be extended with **external tools** like search engines, AI pipelines, and even **JavaScript execution** — all from a minimal, hackable frontend.
 
-👉 Live Demo: [tds-bonus-project-llm-agent.vercel.app](https://tds-bonus-project-llm-agent.vercel.app/)
+👉 Live Demo: [tds-bonus-project-llm-agent.vercel.app](https://llm-agent-tds-bonus.vercel.app/)
 
 ---
 
@@ -39,7 +39,7 @@ This app shows how natural language reasoning can be extended with **external to
 ### Quick Setup
 1. Clone this repo:
    ```bash
-   git clone https://github.com/23f1000805/tds-bonus-project-LLM-Agent.git
+   git clone https://github.com/siddarth-arora/LLM_AGENT_TDS_BONUS.git
    cd tds-bonus-project-LLM-Agent
    ```
 2. Open `index.html` directly in your browser. *(No backend needed!)*  
